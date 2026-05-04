@@ -22,9 +22,15 @@
 | Signal Archive | 데이터 분석 프로젝트를 역할 적합성, 문제 정의, 검증 근거 중심으로 묶은 포트폴리오 허브 | [Live](https://signal-archive.vercel.app) · [Repo](https://github.com/dffxonnb-cyber/signal-archive) |
 | Seoul Storefront Redveil | 서울 상권 매입 검토에 필요한 확인 포인트를 공개 웹 서비스로 정리 | [Live](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/) · [Repo](https://github.com/dffxonnb-cyber/Seoul-Storefront-Redveil) |
 | LH Traffic Safety Analysis | 공공 교통사고 데이터와 공간 정보를 바탕으로 설치 우선순위 판단 흐름 설계 | [Repo](https://github.com/dffxonnb-cyber/LH-traffic-safety-analysis) |
-| Starbucks Promotion Analysis | 고객, 오퍼, 채널 데이터를 다시 묶어 CRM 반응 구조와 마케팅 액션 해석 | [Repo](https://github.com/dffxonnb-cyber/starbucks-promotion-analysis) |
-| UK Online Retail Segment Analysis | 고객 세그먼트를 매출, 재구매, 액션 우선순위 관점으로 해석 | [Repo](https://github.com/dffxonnb-cyber/UK-OnlineRetail-Segment-analysis) |
-| ShopEasy | 이커머스 전환 흐름과 병목을 대시보드 형태로 정리한 분석 프로젝트 | [Live](https://dffxonnb-cyber.github.io/ShopEasy/) · [Repo](https://github.com/dffxonnb-cyber/ShopEasy) |
+| Starbucks Promotion Analysis | 고객, 오퍼, 채널 데이터를 다시 묶어 CRM 반응 구조와 모델 검증 지표를 함께 정리 | [Repo](https://github.com/dffxonnb-cyber/starbucks-promotion-analysis) |
+| UK Online Retail Segment Analysis | 고객 세그먼트를 매출, 재구매, 통계 검정, 액션 우선순위 관점으로 해석 | [Repo](https://github.com/dffxonnb-cyber/UK-OnlineRetail-Segment-analysis) |
+| ShopEasy | 이커머스 전환 병목을 대시보드와 재생성 가능한 synthetic dataset으로 정리 | [Live](https://dffxonnb-cyber.github.io/ShopEasy/) · [Repo](https://github.com/dffxonnb-cyber/ShopEasy) |
+
+## Verification Signals
+
+- Public smoke tests and GitHub Actions are connected across the main portfolio repositories.
+- `ShopEasy` includes a deterministic synthetic data generator plus CSV schema and metric checks.
+- `signal-archive` rebuilds from structured TypeScript content with typecheck, lint, and production build checks.
 
 ## Strengths
 
