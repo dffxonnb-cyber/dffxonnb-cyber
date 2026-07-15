@@ -35,7 +35,10 @@ CRM·커머스 supporting projects는 [Signal Archive](https://signal-archive.ve
 
 ## Tech Stack
 
-Python, SQL, pandas, NumPy, SciPy, scikit-learn, statsmodels, GeoPandas, QGIS, Tableau, HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, PWA, PostgreSQL, Neon, GitHub Actions, Vercel, GitHub Pages
+- **Analysis:** Python, SQL, pandas, scikit-learn, statsmodels
+- **Spatial / BI:** GeoPandas, QGIS, Tableau
+- **Data Product:** TypeScript, React, Next.js, PostgreSQL
+- **Validation / Delivery:** GitHub Actions, Vercel, GitHub Pages
 
 ## Contact
 
