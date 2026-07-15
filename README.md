@@ -10,11 +10,9 @@
 
 ## About
 
-저는 **무엇을 추천할 것인가**보다 먼저 **왜 보류해야 하는가, 무엇을 먼저 확인해야 하는가**를 설명하는 데이터 분석가입니다.
+공공·공간·상권·CRM 데이터를 판단 가능한 단위로 구조화하고, 분석 결과를 검증 가능한 문서·대시보드·웹 결과물로 연결합니다.
 
-공공데이터, 공간·도시·상권 데이터, CRM·리테일 데이터를 다루며 모호한 요청을 의사결정 질문으로 바꾸고, 데이터를 판단 가능한 단위로 구조화한 뒤 지표·검증·문서·대시보드·웹 화면으로 연결합니다.
-
-관심 역할은 **Data Analyst, Spatial Data Analyst, Business Data Analyst, CRM / Marketing Data Analyst, Public / Urban / Commercial Data Analyst, Data Product-oriented Analyst**입니다.
+관심 역할은 **Data Analyst · Spatial Data Analyst · Business Data Analyst**입니다.
 
 ## Reviewer Path
 
