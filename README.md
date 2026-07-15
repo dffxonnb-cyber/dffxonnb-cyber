@@ -26,13 +26,12 @@
 
 | Project | Decision Question | Evidence |
 | --- | --- | --- |
-| **Signal Archive** | 분석 방식과 역할 적합성을 어떻게 빠르게 검토하게 만들 것인가? | [Live](https://signal-archive.vercel.app/) · [Repo](https://github.com/dffxonnb-cyber/signal-archive) |
-| **DecisionOps Lab** | 원시 이벤트 데이터를 신뢰 가능한 지표·품질검증·A/B 테스트·멀티 가드레일 의사결정 메모로 연결하는 분석 워크플로우는 어떻게 설계할 것인가? | [Report](https://dffxonnb-cyber.github.io/DecisionOps-lab/) · [Repo](https://github.com/dffxonnb-cyber/DecisionOps-lab) |
 | **Seoul Storefront Redveil** | 매입 전에 먼저 보류해야 할 신호는 무엇인가? | [Detail](https://signal-archive.vercel.app/projects/seoul-storefront-redveil) · [Live](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/) · [Repo](https://github.com/dffxonnb-cyber/Seoul-Storefront-Redveil) |
 | **Shelter Signal** | 보호 종료가 가까운 공공데이터 공고를 어떻게 먼저 확인하게 만들 것인가? | [Detail](https://signal-archive.vercel.app/projects/shelter-signal) · [Live](https://shelter-signal-ebon.vercel.app/) · [Repo](https://github.com/dffxonnb-cyber/shelter-signal) |
+| **DecisionOps Lab** | 원시 이벤트 데이터를 신뢰 가능한 지표·품질검증·A/B 테스트·멀티 가드레일 의사결정 메모로 어떻게 연결할 것인가? | [Report](https://dffxonnb-cyber.github.io/DecisionOps-lab/) · [Repo](https://github.com/dffxonnb-cyber/DecisionOps-lab) |
 | **LH Traffic Safety Analysis** | 사고 이력이 부족한 신도시에서 어디를 먼저 검토할 것인가? | [Detail](https://signal-archive.vercel.app/projects/lh-traffic-safety-analysis) · [Repo](https://github.com/dffxonnb-cyber/LH-traffic-safety-analysis) |
-| **Starbucks Promotion Analysis** | 어떤 고객군에 어떤 오퍼를 어떤 채널로 제안할 것인가? | [Detail](https://signal-archive.vercel.app/projects/starbucks-promotion-analysis) · [Repo](https://github.com/dffxonnb-cyber/starbucks-promotion-analysis) |
-| **UK Online Retail Segment Analysis** | 누구를 유지·재활성화 우선순위로 볼 것인가? | [Detail](https://signal-archive.vercel.app/projects/uk-online-retail-segment-analysis) · [Repo](https://github.com/dffxonnb-cyber/UK-OnlineRetail-Segment-analysis) |
+
+CRM·커머스 supporting projects는 [Signal Archive](https://signal-archive.vercel.app/projects)에서 확인할 수 있습니다.
 
 ## Analysis Workflow
 
