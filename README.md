@@ -33,17 +33,6 @@
 
 CRM·커머스 supporting projects는 [Signal Archive](https://signal-archive.vercel.app/projects)에서 확인할 수 있습니다.
 
-## Analysis Workflow
-
-| Stage | 핵심 질문 | 결과물 |
-| --- | --- | --- |
-| **Define** | 어떤 의사결정 질문으로 바꿀 것인가? | 문제 정의, 분석 범위 |
-| **Structure** | 어떤 단위로 데이터를 다시 묶을 것인가? | 분석 테이블, 공간 격자, CSV / JSON |
-| **Measure** | 어떤 지표와 위험 신호를 볼 것인가? | KPI, 리스크 점수, 후보 순위 |
-| **Validate** | 우연·누수·과도한 일반화를 어떻게 점검할 것인가? | 통계 검정, 전이 검증, smoke test, CI |
-| **Communicate** | 읽는 사람이 무엇을 먼저 봐야 하는가? | README, 분석 문서, Tableau, 대시보드 |
-| **Implement** | 결과를 어떤 화면·도구로 연결할 것인가? | Static Web, PWA, GitHub Pages, Vercel |
-
 ## Tech Stack
 
 Python, SQL, pandas, NumPy, SciPy, scikit-learn, statsmodels, GeoPandas, QGIS, Tableau, HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, PWA, PostgreSQL, Neon, GitHub Actions, Vercel, GitHub Pages
