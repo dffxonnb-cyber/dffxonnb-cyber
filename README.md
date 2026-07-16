@@ -6,7 +6,7 @@
 
 `Define → Structure → Measure → Validate → Communicate → Implement`
 
-[**Portfolio · Signal Archive**](https://signal-archive.vercel.app/) · [**Start Here**](https://signal-archive.vercel.app/start-here) · [**Main Project · Redveil**](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/) · [**Public Data PWA · Shelter Signal**](https://shelter-signal-ebon.vercel.app/)
+[**Portfolio · Signal Archive**](https://signal-archive.vercel.app/) · [**Start Here**](https://signal-archive.vercel.app/start-here) · [**Main Project · Redveil**](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/v2/) · [**Public Data PWA · Shelter Signal**](https://shelter-signal-ebon.vercel.app/)
 
 ## About
 
@@ -26,7 +26,7 @@
 
 | Project | Decision Question | Evidence |
 | --- | --- | --- |
-| **Seoul Storefront Redveil** | 매입 전에 먼저 보류해야 할 신호는 무엇인가? | [Detail](https://signal-archive.vercel.app/projects/seoul-storefront-redveil) · [Live](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/) · [Repo](https://github.com/dffxonnb-cyber/Seoul-Storefront-Redveil) |
+| **Seoul Storefront Redveil** | 매입 전에 먼저 보류해야 할 신호는 무엇인가? | [Detail](https://signal-archive.vercel.app/projects/seoul-storefront-redveil) · [Live](https://dffxonnb-cyber.github.io/Seoul-Storefront-Redveil/v2/) · [Repo](https://github.com/dffxonnb-cyber/Seoul-Storefront-Redveil) |
 | **Shelter Signal** | 보호 종료가 가까운 공공데이터 공고를 어떻게 먼저 확인하게 만들 것인가? | [Detail](https://signal-archive.vercel.app/projects/shelter-signal) · [Live](https://shelter-signal-ebon.vercel.app/) · [Repo](https://github.com/dffxonnb-cyber/shelter-signal) |
 | **DecisionOps Lab** | 원시 이벤트 데이터를 신뢰 가능한 지표·품질검증·A/B 테스트·멀티 가드레일 의사결정 메모로 어떻게 연결할 것인가? | [Report](https://dffxonnb-cyber.github.io/DecisionOps-lab/) · [Repo](https://github.com/dffxonnb-cyber/DecisionOps-lab) |
 | **LH Traffic Safety Analysis** | 사고 이력이 부족한 신도시에서 어디를 먼저 검토할 것인가? | [Detail](https://signal-archive.vercel.app/projects/lh-traffic-safety-analysis) · [Repo](https://github.com/dffxonnb-cyber/LH-traffic-safety-analysis) |
